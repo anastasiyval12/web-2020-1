@@ -1,0 +1,55 @@
+body{
+    background:rgb(45,23,78) url("https://images.wallpaperscraft.ru/image/zvezdnoe_nebo_oblaka_zakat_120716_1280x720.jpg");
+    font-style:oblique;
+    color:#bbb1b1;
+    font-family: 'Odibee Sans', sefir;
+    line-height:normal;
+    text-align:center;
+    display: flexbox;
+}
+nav a{
+    background-color:rgba(199, 24, 24, 0.3);
+}
+.inf{
+    padding-left: 30px;
+}
+.info{
+    padding-left: 25px;
+}
+    h1 {
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+    }
+    ul{
+        text-transform:capitalize;
+        font-size: 1em;
+        text-align:center;
+
+    }
+    p{
+        text-align:center;
+        background-color: rgba(131, 14, 92, 0.6);
+    }
+    .f li{
+         text-decoration-style:double;
+        text-decoration-color:rgb(226, 12, 12);
+        padding:15px;
+        width: 40%;
+    }
+    .feature-1{
+        background: url("https://images.wallpaperscraft.ru/image/zvezdy_mlechnyj_put_prostranstvo_kosmos_116893_1280x720.jpg");
+        border-color:rgb(89,34,255);
+    }
+    .feature-2{
+        background:url("https://images.wallpaperscraft.ru/image/zvezdy_kosmos_galaktika_prostranstvo_118131_1280x720.jpg");
+        border-color:rgb(67,123,56);
+    }
+    .feature-3{
+        background: url("https://images.wallpaperscraft.ru/image/zvezdy_galaktika_kosmos_124294_1280x720.jpg");
+        border-color:rgb(89,34,30);
+    }
+    footer{
+        background-color:rgba(127, 16, 192, 0.4);
+        text-align:center;
+    }
